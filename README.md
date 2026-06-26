@@ -30,12 +30,14 @@ This project analyzes the sentiment of user-entered text using Python and TextBl
 
 ## Project Structure
 
+```text
 AI-Sentiment-Analyzer/
 ├── sentiment.py
 ├── requirements.txt
 ├── README.md
 ├── screenshots/
 └── documentation/
+```
 
 ## How to Run
 
