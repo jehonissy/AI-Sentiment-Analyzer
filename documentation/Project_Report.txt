@@ -1,0 +1,13 @@
+AI Sentiment Analyzer
+
+This project analyzes user-entered text and predicts whether the sentiment is positive, negative, or neutral using the TextBlob library.
+
+Technologies Used:
+- Python
+- TextBlob
+- Pandas
+
+Features:
+- Accepts user input
+- Performs sentiment analysis
+- Displays Positive, Negative, or Neutral sentiment
